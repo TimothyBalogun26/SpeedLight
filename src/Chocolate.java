@@ -24,3 +24,5 @@ public class Chocolate {
 
     }
 }
+//Dr. Park's feedback: your code is not correctly written. It has the logic error. 9 bags * 2 chocolates = 18 chocolates. Then, you will need to divide 18 by 3. 
+//so you only need 6 bags. 
